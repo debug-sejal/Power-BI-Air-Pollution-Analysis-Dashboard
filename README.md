@@ -34,4 +34,4 @@ Designed an Air Quality Dashboard in Power BI to analyze pollutant levels across
 * Supported public health awareness campaigns with data-driven evidence.
   
 ## 8. Screenshot
-This is How Dashboard looks like: 
+This is How Dashboard looks like: Air Pollution.png
